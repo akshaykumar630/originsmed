@@ -235,14 +235,14 @@ sup {
 }
 
 a {
-    color:#04778d;
+    color:#3482b0;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
 }
 
 a:hover {
-    color:#04778d;
+    color:#3482b0;
     text-decoration: underline
 }
 
@@ -800,7 +800,6 @@ pre code {
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-    /* -ms-flex: 0 0 auto; */
     padding-top: 15px;
 }
 
